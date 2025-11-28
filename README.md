@@ -1,1 +1,1 @@
-# Glpi-FORMCreator-Leaftlet
+# Glpi-FORMCreator-Leaflet
